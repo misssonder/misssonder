@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![misssonder's GitHub stats](https://github-readme-stats.vercel.app/api?username=misssonder&show_icons=true&theme=radical&count_private=true)
-### More About Me
+### More About Me 🤔
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misssonder&theme=radical&show_icons=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### My Repo
+### My Repo ⚡
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=misssonder&repo=vuetify-qq&theme=radical&show_icons=true&count_private=true)](https://github.com/misssonder/vuetify-qq)
