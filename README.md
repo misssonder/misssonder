@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## Hi there 👋
+[![github stats](https://github-readme-stats.vercel.app/api?username=misssonder&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 ### More About Me 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misssonder&theme=merko&show_icons=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
